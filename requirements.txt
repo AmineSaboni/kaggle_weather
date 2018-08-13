@@ -1,0 +1,11 @@
+name: kaggle_env
+dependencies:
+  - python
+  - datetime
+  - numpy
+  - pip:
+    - xgboost
+    - seaborn
+    - pandas
+    - matplotlib
+    - sklearn
